@@ -5,8 +5,8 @@ import Footer from '../../components/Footer';
 const wrapper = shallow(<Footer />);
 
 describe('the Footer Component', () => {
-	it('has a div element', () => {
-		expect(wrapper.find('div').length).toEqual(1);
+	it('has two div element', () => {
+		expect(wrapper.find('div').length).toEqual(2);
 	});
 
 	it('has two Segment component', () => {
