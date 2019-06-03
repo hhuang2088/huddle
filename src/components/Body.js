@@ -1,6 +1,5 @@
 import React from 'react';
 import { Segment, Header, Container, Button } from 'semantic-ui-react';
-import screenMockup from '../images/screen-mockups.svg';
 
 const Body = () => {
 	return(
