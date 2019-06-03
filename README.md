@@ -1,13 +1,13 @@
 
-#Huddle - Practice landing page
+# Huddle - Practice landing page
 
-###Used technology
+### Used technology
 
-####Production
+#### Production
 * React
 * Semantic-UI-React
 
-####Development
+#### Development
 * enzyme
 * enzyme-adapter-react-16
 
